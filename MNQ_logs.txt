@@ -1,0 +1,6 @@
+Trying to Connect to Trading Platform...
+<IB connected to 127.0.0.1:7497 clientId=70>
+No opened positions
+2021-10-07 22:45:51 | MNQ Catcher Bot Turned On
+2021-10-07 22:45:51 | Running with contract conversion: 1.0
+Margin Accepted! 1034955.46 USD more than required
